@@ -7,3 +7,5 @@ debes abrir la terminal de computador y navegar hasta la carpeta de tu proyecto 
 
 # ¡como se sincronizan?
 para sincronizar el repositorio local con GitHub, primero debes de asegurarte de haber usado los comandos git add . y git commit -m"mensaje" para guardar los cambios lcalmente. luego usa git push -origin main y luego refrescamos la pagina y ya esta listo 
+
+![imagen](pantallazo_gitbash.png)
